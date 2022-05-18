@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-catalog-tulsipur",
+  "private_key_id": "e12e28eef0ca4fd631d74bbc6ed3742449a19637",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCe+F3rObBvnIrV\nvVQ1sunr5ZP3MNeTB6IdwYzU2B24DhWfymxQZTf3qcV8wdFpKYEx7UKRa8rYVxu+\nVu9xAn4cOzLegbPaKpCe9bzE4OtAFUkKaUwlPK6+iiyNgxAips6uchHKrjQou8l/\ncppa2UaVgFuYiWJQWbMxpSPvxbTe9bDSDsb8l1yQqQpEsEpRee1I594lsg1OVKSz\nu3AlC6BeHZr1jzibT3NHk3apkXHWc64PjOv6VrZKxTQTihI8foW3y3831EvYGpXv\nsaSpovo8MkbR3/0an5Bj1MB/oYEh0RkXUSXho47sFPRM4vHVFVEMYkTNjAnVik/0\n14rMucHFAgMBAAECggEAQr8ryAEv6J0E2huliOp3N1nsl6SFTzGsSuwicpfPWqFn\nSPFYKyVkq3M3/Vrvz0Ti/xCMm7xzrgRdHL0pyfxu8PGWOUCiQF8Q2/135f4+KGkH\ngvyVQSlKgaxIap52HuaE70/r0nr0YYn/X6jB0JVcApejXdeJVQ1kpNqezSTo/Zfn\nAUfRgCRO2B6DjxnuhlUJdZh1oK8V22+CEWSOBi07ZGAhfGiYSZoJ1467TK95NJ0w\nAEnc0z4IPHV4VvafJlBJ2lmw5Lx19L5rHQRFVXVyWnU2WyRJW29SW22jwxYWSkY9\n3hUe/nUbCjLyiZE2sK5KtUH9fTwm4Vhe40fkymeNnQKBgQDfND7uLixPVvpeCSgB\n51ZZwrU6v1q+kJmEXgdvLDtbX+43b8WjLw25cHCPUcSJnAr/9I4Npoao1sQYgsYO\ncm6/Ldn8ieMuegoLn9Jyboxq+4Ah0h0Qh1f068JyD4Zzwc35Bfu2TjbAtwQMFtuB\n1eFupspE/ZPFkUpjkkNHLeWEawKBgQC2U/t0JQGSDe9HNg6zdNUkSZ/gQslOQKTn\nvlT+hLI5RjwPqqWCFrWh0qpX0QQHyyfp8KqpsopnPpGUw+81i054HXO8gUq1cBwP\nJBr56TFfoTs7IOAV4BwUM2dRjDsnkeRK7Nicupm3pzV2XH3KzGgXUYUbRhQ7Pz3+\n09lvDhDejwKBgQDRfFKX7uQNbt+6xDM1Xi7wPcskIRaFBmffEPU/RS9MekO06gV/\nO5lQ8xPhn2erk7XLNnbgnuuBqVgQfSRvyLziV6Fg4PVE2Kt274BvgAvwGK3QkEhR\nDAXkTCWKMcIKANpVH2V4W/4Nb3ev9P/94oQa+xWaHLjFU7CStWLJem0QkwKBgC1r\ngmqOhXOi8QamWsctxaMCjEdLm+ZYiDwK2BWHbPaDnpawhgaALcMgPbseoIhofYrz\nnzAjAAN0PMP4g3CtQWD+xUQiWUAVq4fCEM5M3zXZbm3uZKRObfBCVeykqF/VIi/g\nDJ4OhhiQGOthYxzQCuY0Mpp2vLd9q639jF7z/BPVAoGBAKoGkwzsqwM3V40UH9Gj\noZLKtnQRCvJEvyBSCB3b7ZPJdEIjWZaEe3pqrkC335hC0UinC4lgBRvE6AxpcQHl\nkda4GSoyn+SZP+/pHbk5VvIIRPtfnXnYP1vicepFqRvoWKgrh80o/7od82VlWfmX\nkTjfFTD0X1i9cgUzIEIzPQir\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-catalog@data-catalog-tulsipur.iam.gserviceaccount.com",
+  "client_id": "109866438059438285307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-catalog%40data-catalog-tulsipur.iam.gserviceaccount.com"
+}
